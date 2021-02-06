@@ -1,0 +1,3 @@
+Comando para iniciar o backend / json
+
+C:\Users\nicko\Desktop\crud\backend>npm start
